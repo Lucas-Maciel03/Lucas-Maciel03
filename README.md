@@ -4,7 +4,7 @@
 - 🌱 Estudando node.js e seu framework
 - 🎓 Graduado em Análise e Desenvovimento de Sistemas
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-maciel03&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-maciel03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true")
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-maciel03&layout=donut&langs_count=6&theme=tokyonight"/>
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
