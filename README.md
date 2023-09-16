@@ -5,7 +5,7 @@
 - 🎓 Graduado em Análise e Desenvovimento de Sistemas
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-maciel03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=lucas-maciel03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-maciel03&layout=donut&langs_count=6&theme=tokyonight"/>
 </div>
 
